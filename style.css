@@ -60,6 +60,10 @@ section {
     float: left;
     width: 50%;
 }
+.gambar2 {
+    float: left !important;
+    width: 50%;
+}
 
 .tulisan {
     float: right;
@@ -87,7 +91,7 @@ section {
 }
 
 .kedua {
-    margin-top: 416px;
+    margin-top: 450px;
     min-height: 600px;
 }
 
